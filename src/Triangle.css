@@ -1,0 +1,7 @@
+.tri {
+  height: 0;
+  width: 0;
+  border-top: 300px solid transparent;
+  border-bottom: 300px solid transparent;
+  border-right: 300px solid rgb(150, 150, 112);
+}
